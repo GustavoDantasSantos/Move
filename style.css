@@ -1,0 +1,51 @@
+/* Start style on header page */
+.content-box-header {
+    width: 100%;
+    height: 900px;
+    background-color: #141414;
+}
+.shadow-image-black {
+    background-image: url("assets/house.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-color: #141414;
+    height: 900px;
+    opacity: 0.5;
+}
+.area-logo {
+    padding: 2rem;
+}
+.area-calling-to-action {
+    padding: 3rem;
+}
+.h1-text-header {
+    color: #F8FAFF;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 47px;
+    line-height: 110%;
+}
+.describe-header {
+    margin-top: 2rem;
+    color: #F8FAFF;
+    font-weight: 700;
+    font-size: 28px;
+    line-height: 120%;
+}
+.primary-button {
+    /* Style of button */
+    margin-top: 2rem;
+    width: 333px;
+    height: 58px;
+    background-color: #EB4B27;
+    color: #F8FAFF;
+    border-radius: 100px;
+    border-style: none;
+    /*  Style of text button */
+    font-style: normal;
+    font-weight: 700;
+    font-size: 23px;
+    line-height: 120%;
+}
+/* Finished style of header page */
