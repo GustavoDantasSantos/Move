@@ -48,4 +48,56 @@
     font-size: 23px;
     line-height: 120%;
 }
-/* Finished style of header page */
+/* Finish style of header page */
+/* Start styles of service section */
+.personal-service {
+   text-align: center;
+    margin-top: 20px;
+}
+.describe-sections {
+    color: #EB4B27;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 150%;
+    text-transform: uppercase;
+}
+.title-sections {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 39px;
+    line-height: 110%;
+}
+.wrapper {
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-around;
+}
+.box-services {
+    width: 340px;
+    height: 340px;
+    left: 190px;
+    top: 1082px;
+    box-shadow: 1px 15px 41px rgba(0, 0, 0, 0.14);
+}
+.icon {
+    color: #EB4B27;
+    margin-top: 26px;
+}
+.box-services > h5 {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 23px;
+    line-height: 120%;
+    position: relative;
+    top: 110px;
+}
+.box-services > p {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 150%;
+    position: relative;
+    top: 130px;
+}
+/* Finish styles of service section */
